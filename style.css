@@ -5,7 +5,7 @@ ul{
 	list-style-type: none;
 }
 body{
-	background: #EAE5E5;
+	background: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -17,6 +17,7 @@ body{
 .tabs-button{
 	display: flex;
 	text-transform: uppercase;
+	border-radius:20px;
 }
 
 .tabs-button li{
